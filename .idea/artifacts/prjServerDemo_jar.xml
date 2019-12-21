@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="prjServerDemo:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/prjServerDemo_jar</output-path>
+    <root id="archive" name="prjServerDemo.jar">
+      <element id="module-output" name="prjServerDemo" />
+    </root>
+  </artifact>
+</component>
